@@ -123,7 +123,7 @@ namespace PrimeNumberSieve
             Console.WriteLine("Processing Estimates:");
             bool pastSunDeath = false;
             bool pastUniverseAge = false;
-            var ageOfUniverse = 13700000000;
+            var ageOfUniverse = 13800000000;
             for (int i = 1; i <= 256 - bits; i++)
             {
                 totalSeconds *= 2;
